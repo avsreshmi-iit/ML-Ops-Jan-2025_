@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 hello 168
+=======
+ML OPS -Assignment 1 :
+
+Hi
+Roll no.g24it167
+>>>>>>> g24ait168
